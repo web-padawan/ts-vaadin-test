@@ -14,7 +14,7 @@ export class TestComponent extends ControlStateMixin(ThemableMixin(PolymerElemen
   }
 
   get focusElement() {
-    return this.shadowRoot?.getElementById('button');
+    return this.$.button;
   }
 }
 

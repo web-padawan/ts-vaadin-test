@@ -9,10 +9,10 @@
   dependencies:
     "@webcomponents/shadycss" "^1.9.1"
 
-"@vaadin/vaadin-control-state-mixin@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@vaadin/vaadin-control-state-mixin/-/vaadin-control-state-mixin-2.2.0.tgz#6c2281fe0f545441407f55c9b9a4227918a93a75"
-  integrity sha512-KW9c2d/uQS4hDuvWUNWBSY7jPGnxzz6OwYhbPU+XegnzINmWhbqMvF9CumqpVais7Kx3KMapbFedtvFjhcm/Zw==
+"@vaadin/vaadin-control-state-mixin@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@vaadin/vaadin-control-state-mixin/-/vaadin-control-state-mixin-2.2.1.tgz#3db78d3ef2b8a55ccea431c94d872d8e443fc868"
+  integrity sha512-Y/y2aRXiQqa7sqQM2f5DkXK2U+sHEyGql67SXaXljGIMiFT0H7rfJZ+5TcXucpsUb2z+R0oCq8Q3+GES9YP9Fg==
   dependencies:
     "@polymer/polymer" "^3.0.0"
 
