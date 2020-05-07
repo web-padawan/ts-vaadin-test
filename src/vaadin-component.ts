@@ -3,6 +3,7 @@ import { ControlStateMixin } from '@vaadin/vaadin-control-state-mixin';
 import { ThemableMixin } from '@vaadin/vaadin-themable-mixin';
 import { ElementMixin } from '@vaadin/vaadin-element-mixin';
 import '@vaadin/vaadin-button';
+import '@vaadin/vaadin-checkbox';
 
 export class TestComponent extends ControlStateMixin(ThemableMixin(ElementMixin(PolymerElement))) {
   static get is() {
@@ -14,6 +15,8 @@ export class TestComponent extends ControlStateMixin(ThemableMixin(ElementMixin(
       <button id="button">Button</button>
 
       <vaadin-button>Button</vaadin-button>
+
+      <vaadin-checkbox>Checkbox</vaadin-checkbox>
     `
   }
 
